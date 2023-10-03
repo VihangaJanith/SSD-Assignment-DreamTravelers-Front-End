@@ -10,12 +10,13 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.1",
     "bootstrap": "^5.1.1",
+    "dompurify": "^3.0.6",
     "emailjs-com": "^3.2.0",
     "formik": "^2.2.9",
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
-    "react-datepicker": "^4.2.1",
     "react-bootstrap": "^2.0.0-rc.0",
+    "react-datepicker": "^4.2.1",
     "react-dom": "^17.0.2",
     "react-hook-form": "^7.15.3",
     "react-if-elseif-else-render": "^1.0.2",
@@ -35,12 +36,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
